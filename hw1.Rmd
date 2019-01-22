@@ -1,0 +1,22 @@
+---
+title: "hw1"
+author: "Sam Begley"
+date: "January 22, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Data Science**  
+  
+  The way I think about data science is a method of seeing the bigger picture by comparing different data points. Seeing the bigger picture can let you understand how specific changes in a system can lead to certain results within the system. We can use this information to predict how to improve the results of whatever we are trying to achieve. Data science requires the use of a lot of statistics, which was always one of my favorite subjects in school, so it's a very interesting career for me. I was also inspired by the subreddit [Data Is Beautiful](www.reddit.com/r/DataIsBeautiful/) which showed how interesting data can be.  
+  
+```{R Version}
+version
+```  
+  
+  git version 2.11.0  
+  
+  GitHub Username: sfbegley
