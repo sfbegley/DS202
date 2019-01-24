@@ -1,0 +1,14 @@
+---
+title: "partner"
+output: html_document
+---
+
+Sam Begley
+
+sfbegley
+
+Added Homework 1 HTML file, ID: 1abc92d
+
+I was able to knit hw1 without error.
+
+I already have quite a bit of experience with Git from an internship, so I have no suggestions.
