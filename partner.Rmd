@@ -3,9 +3,9 @@ title: "partner"
 output: html_document
 ---
 
-Sam Begley
+Brad Gannon
 
-sfbegley
+bradgannon
 
 Added Homework 1 HTML file, ID: 1abc92d
 
